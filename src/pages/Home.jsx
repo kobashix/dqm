@@ -1,3 +1,4 @@
+import Review from "../components/HomePage/Review"
 import Teams from "../components/HomePage/Teams"
 import Button from "../components/common/Button"
 import Navbar from "../components/common/Navbar"
@@ -12,6 +13,7 @@ const Home = () => {
         index={0}
         />
         <Teams />
+        <Review />
     </>
   )
 }

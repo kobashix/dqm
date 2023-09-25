@@ -1,4 +1,4 @@
-import { image1, image2, image3, image4 } from "../assets/images/index"
+import { image1, image2, image3, image4, review1, review2, review3, review4 } from "../assets/images/index"
 
 export const showcase = [
     {
@@ -69,4 +69,28 @@ export const team = [
         time: "3-6 months",
         description: "Development center is the best solution for scale-ups and corporations looking for long-term engagement and cost optimization.",
     },
+]
+
+export const reviewLogo = [
+    {
+        image: review1,
+        width: "960",
+        height: "388",
+    },
+    {
+        image: review2,
+        width: "200",
+        height: "65",
+    },
+    {
+        image: review3,
+        width: "789",
+        height: "350",
+    },
+    {
+        image: review4,
+        width: "200",
+        height: "120",
+    },
+
 ]
