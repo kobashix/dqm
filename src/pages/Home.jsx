@@ -4,6 +4,7 @@ import Button from "../components/common/Button"
 import Navbar from "../components/common/Navbar"
 import Showcase from "../components/HomePage/Showcase"
 import Hero from '../components/common/Hero'
+import Card from "../components/common/Card"
 
 const Home = () => {
   return (
@@ -22,6 +23,9 @@ const Home = () => {
         <Teams />
         <Review />
         <Showcase />
+        <Card 
+        index={0}
+        />
     </>
   )
 }
