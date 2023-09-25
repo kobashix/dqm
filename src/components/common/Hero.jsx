@@ -2,7 +2,7 @@ import styles from '../../style'
 import Button from './Button'
 import { showcase } from '../../constants'
 
-const Showcase = ({ index, swap, review, text, color, r, g, b }) => {
+const Hero = ({ index, swap, review, text, color, r, g, b }) => {
   const shouldSwap = swap; // Set your condition here to determine whether to swap or not
   const isReview = review
 
@@ -59,12 +59,12 @@ const Showcase = ({ index, swap, review, text, color, r, g, b }) => {
               {/* SHOWCASE BUTTON */}
               <div className=''>
                 <Button
-                  text="Schedule a Call"
-                  color="bg-[#f41c24]"
-                  r={244}
-                  g={28}
-                  b={36}
-                />
+                    text={text}
+                    color={color}
+                    r={r}
+                    g={g}
+                    b={b}
+                  />
               </div>
             </div>
 
@@ -85,4 +85,4 @@ const Showcase = ({ index, swap, review, text, color, r, g, b }) => {
   )
 }
 
-export default Showcase
+export default Hero

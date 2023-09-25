@@ -1,5 +1,5 @@
 import star from '../../assets/icons/star.svg'
-import Showcase from '../common/Showcase'
+import Showcase from '../common/Hero'
 import styles from '../../style'
 import { reviewLogo } from '../../constants'
 

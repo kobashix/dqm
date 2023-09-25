@@ -1,4 +1,7 @@
 import { image1, image2, image3, image4, review1, review2, review3, review4 } from "../assets/images/index"
+import graduate from '../assets/icons/graduate.svg'
+import community from '../assets/icons/community.svg'
+import star1 from '../assets/icons/star1.svg'
 
 export const showcase = [
     {
@@ -93,4 +96,22 @@ export const reviewLogo = [
         height: "120",
     },
 
+]
+
+export const card = [
+    {
+        icon: graduate,
+        title: "Technical Education & Skills",
+        description: "Poland is a worldwide leader in the quality of IT graduates and software engineering scores.",
+    },
+    {
+        icon: community,
+        title: "Over 800k IT Professionals",
+        description: "Software Developers, IT Project Managers, UX/UI Designers, IT Infrastructure Engineers",
+    },
+    {
+        icon: star1,
+        title: "US/ EU Work Standards",
+        description: "English language proficiency and familiarity with top methodologies (Prince, Scrum, ITIL)",
+    },
 ]
