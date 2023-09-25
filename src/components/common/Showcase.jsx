@@ -16,7 +16,7 @@ const Showcase = ({index}) => {
                 <h1 className={`${styles.heading1} mb-[10px] `}>
                     {showcase[index].title}
                 </h1>
-                <p className={`${styles.padding1} pt-[10px] pb-[25px] `}>
+                <p className={`${styles.paragraph1} pt-[10px] pb-[25px] text-black/60 `}>
                     {showcase[index].description}
                 </p>
 

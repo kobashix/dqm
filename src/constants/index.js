@@ -26,3 +26,47 @@ export const showcase = [
         description: "KodyPay challenge here was to boost the development process by adding experienced developers to their existing team and integrating them with the local team in Berkshire, England. ",
     },
 ]
+
+export const navLink = [
+    {
+        id: "Software Services",
+        url: "",
+    },
+    {
+        id: "Case Studies",
+        url: "",
+    },
+    {
+        id: "Pricing",
+        url: "",
+    },
+    {
+        id: "About Us",
+        url: "",
+    },
+    {
+        id: "Blog",
+        url: "",
+    },
+]
+
+export const team = [
+    {
+        teamTitle: "Software team Extension",
+        developers: "1-5",
+        time: "0-2 months",
+        description: "A partially managed team that works within your processes. Best for providing additional capacity or competencies to the existing teams.",
+    },
+    {
+        teamTitle: "Dedicated software Team",
+        developers: "5-20",
+        time: "1-4 months",
+        description: "Fully managed, cross-functional team that works within our processes on goals set by you. Does not require IT personnel on your side.",
+    },
+    {
+        teamTitle: "IT Development Hub",
+        developers: "20+",
+        time: "3-6 months",
+        description: "Development center is the best solution for scale-ups and corporations looking for long-term engagement and cost optimization.",
+    },
+]

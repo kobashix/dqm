@@ -4,7 +4,7 @@ const style = {
 
     heading1: "font-semibold text-[38px] tracking-[0.3px] leading-[1.2]",
 
-    padding1: "font-regular text-[21px]",
+    paragraph1: "font-regular text-[21px]",
 
     flexCenter: "flex justify-center items-center",
     flexStart: "flex justify-start items-start",
