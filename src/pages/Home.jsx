@@ -1,4 +1,5 @@
 import Button from "../components/common/Button"
+import Showcase from "../components/common/Showcase"
 import styles from "../style"
 
 const Home = () => {
@@ -13,6 +14,9 @@ const Home = () => {
         r={244}
         g={28}
         b={36}
+        />
+        <Showcase 
+        index={0}
         />
       </div>
     </>
