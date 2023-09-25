@@ -3,8 +3,8 @@ import { card } from "../../constants"
 
 const Card = ({index}) => {
   return (
-    <div className="inline-block max-w-[320px]">
-        <div className={`${styles.flexStart} border rounded-lg border-[#ccece4] flex-col p-[20px]`}>
+    <div className="inline-block max-w-[320px] bg-white">
+        <div className={`${styles.flexStart} border rounded-xl border-[#ccece4] flex-col p-[30px] shadow-xl`}>
 
             {/* ICON */}
 

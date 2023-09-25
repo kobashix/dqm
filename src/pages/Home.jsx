@@ -5,6 +5,8 @@ import Navbar from "../components/common/Navbar"
 import Showcase from "../components/HomePage/Showcase"
 import Hero from '../components/common/Hero'
 import Card from "../components/common/Card"
+import CTA from "../components/common/CTA"
+import TechStack from "../components/HomePage/TechStack"
 
 const Home = () => {
   return (
@@ -23,9 +25,8 @@ const Home = () => {
         <Teams />
         <Review />
         <Showcase />
-        <Card 
-        index={0}
-        />
+        <CTA />
+        <TechStack />
     </>
   )
 }

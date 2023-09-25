@@ -115,3 +115,54 @@ export const card = [
         description: "English language proficiency and familiarity with top methodologies (Prince, Scrum, ITIL)",
     },
 ]
+
+export const companies = [
+    {
+        image: "http://nxtide.com/wp-content/uploads/2021/02/dotnet.png",
+    },
+    {
+        image: "http://nxtide.com/wp-content/uploads/2021/02/java.png",
+    },
+    {
+        image: "http://nxtide.com/wp-content/uploads/2021/02/python.png",
+    },
+    {
+        image: "http://nxtide.com/wp-content/uploads/2021/02/node.png",
+    },
+    {
+        image: "https://nxtide.com/wp-content/uploads/2021/02/javascript.png",
+    },
+    {
+        image: "http://nxtide.com/wp-content/uploads/2021/02/react.png",
+    },
+    {
+        image: "http://nxtide.com/wp-content/uploads/2021/02/csharp.png",
+    },
+    {
+        image: "http://nxtide.com/wp-content/uploads/2021/02/angular.png",
+    },
+    {
+        image: "https://nxtide.com/wp-content/uploads/2023/03/swift-logo-1.png",
+    },
+    {
+        image: "http://nxtide.com/wp-content/uploads/2021/02/android.png",
+    },
+    {
+        image: "http://nxtide.com/wp-content/uploads/2021/02/ios.png",
+    },
+    {
+        image: "https://nxtide.com/wp-content/uploads/2023/03/go-logo-2.png",
+    },
+    {
+        image: "http://nxtide.com/wp-content/uploads/2021/02/oracle.png",
+    },
+    {
+        image: "https://nxtide.com/wp-content/uploads/2023/03/php-logo-1.png",
+    },
+    {
+        image: "http://nxtide.com/wp-content/uploads/2021/02/aws.png",
+    },
+    {
+        image: "http://nxtide.com/wp-content/uploads/2021/02/gcp.png",
+    },
+]
