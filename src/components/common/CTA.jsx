@@ -8,6 +8,9 @@ const CTA = () => {
     <section className="bg-[#fafafa]">
         <div className={`${styles.boxWidth} py-[20px]`}>
             <div className={`${styles.boxWidth} pt-[110px] `}>
+
+                {/* MAIN CONTENT */}
+
                 <h1 className={`${styles.heading1} mb-[10px] `}>
                     See how we've worked with companies like yours
                 </h1>
@@ -16,6 +19,9 @@ const CTA = () => {
                     remote software development teams or the whole IT hubs located in Poland.
                 </p>
                 <div className="flex justify-center py-[20px]">
+
+                    {/* BUTTON */}
+
                     <Button 
                         text={"Book a free consultancy call"}
                         color={"bg-[#f41c24]"}
@@ -25,6 +31,9 @@ const CTA = () => {
                     />
                 </div>
             </div>
+
+            {/* CARD SECTION */}
+            
             <div className="py-[100px] flex flex-row justify-between ">
                 {card.map((item, index) => (
                     <Card 
