@@ -31,11 +31,11 @@ const Navbar = () => {
         </nav>
         <div>
         <Button 
-        text="Contact Us"
-        color="bg-[#f41c24]"
-        r={244}
-        g={28}
-        b={36}
+          text="Contact Us"
+          color="bg-[#f41c24]"
+          r={244}
+          g={28}
+          b={36}
         />
         </div>
       </div>

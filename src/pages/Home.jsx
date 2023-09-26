@@ -7,6 +7,7 @@ import Hero from '../components/common/Hero'
 import Card from "../components/common/Card"
 import CTA from "../components/common/CTA"
 import TechStack from "../components/HomePage/TechStack"
+import Footer from "../components/common/Footer"
 
 const Home = () => {
   return (
@@ -27,6 +28,7 @@ const Home = () => {
         <Showcase />
         <CTA />
         <TechStack />
+        <Footer /> 
     </>
   )
 }

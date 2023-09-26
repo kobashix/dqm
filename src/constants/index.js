@@ -166,3 +166,133 @@ export const companies = [
         image: "http://nxtide.com/wp-content/uploads/2021/02/gcp.png",
     },
 ]
+
+export const footerLinks = [
+    {
+        title: "Home",
+        links: [
+            {
+                id: "Services",
+                link: "",
+            },
+            {
+                id: "Case Studies",
+                link: "",
+            },
+            {
+                id: "Priceing",
+                link: "",
+            },
+            {
+                id: "About us",
+                link: "",
+            },
+            {
+                id: "How we work",
+                link: "",
+            },
+            {
+                id: "Blog",
+                link: "",
+            },
+            {
+                id: "Contact",
+                link: "",
+            },
+        ]
+    },
+    {
+        title: "Engagement models",
+        links: [
+            {
+                id: "Dedicated Software Team",
+                link: "",
+            },
+            {
+                id: "Software Team Extension",
+                link: "",
+            },
+            {
+                id: "Build operate transfer",
+                link: "",
+            },
+            {
+                id: "Nearshore software development",
+                link: "",
+            },
+            {
+                id: "Offshore software development",
+                link: "",
+            },
+            {
+                id: "Custom Software Development",
+                link: "",
+            },
+            
+        ]
+    },
+    {
+        title: "Expertise",
+        links: [
+            {
+                id: "Mobile applications",
+                link: "",
+            },
+            {
+                id: "Web applications",
+                link: "",
+            },
+            {
+                id: "Cloud applications",
+                link: "",
+            },
+        ]
+    },
+    // {
+    //     title: "Technologies",
+    //     links: [
+    //         {
+    //             id: "ReactJs",
+    //             link: "",
+    //         },
+    //         {
+    //             id: "NodeJs",
+    //             link: "",
+    //         },
+    //         {
+    //             id: "Java",
+    //             link: "",
+    //         },
+    //         {
+    //             id: ".NET",
+    //             link: "",
+    //         },
+    //         {
+    //             id: "iOS & Swift",
+    //             link: "",
+    //         },
+    //         {
+    //             id: "Android & Kotlin",
+    //             link: "",
+    //         },
+    //     ]
+    // },
+    {
+        title: "Knowledge Hub",
+        links: [
+            {
+                id: "Offshore Development Center- Guide to Offshore Software Development",
+                link: "",
+            },
+            {
+                id: "Nearshore Software Development Guide",
+                link: "",
+            },
+            {
+                id: "Build Operate Transfer – the New Trend in IT Outsourcing Services",
+                link: "",
+            },
+            
+        ]
+    },
+]
