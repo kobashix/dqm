@@ -24,10 +24,10 @@ const Home = () => {
           b={36}
         />
         <Teams />
-        <Review />
-        <Showcase />
-        <CTA />
+        {/* <Review /> */}
+        {/* <Showcase /> */}
         <TechStack />
+        <CTA />
         <Footer /> 
     </>
   )

@@ -12,11 +12,10 @@ const CTA = () => {
                 {/* MAIN CONTENT */}
 
                 <h1 className={`${styles.heading1} mb-[10px] `}>
-                    See how we've worked with companies like yours
+                    See how we've worked with institutions like yours
                 </h1>
                 <p className={`${styles.paragraph1} pt-[10px] pb-[25px] text-black/60 `}>
-                    We helped many small, medium, and large companies with their struggle in building successful 
-                    remote software development teams or the whole IT hubs located in Poland.
+                    We helped many small, medium, and large institutions with their struggle in make data-driven decisions. We can help you too.
                 </p>
                 <div className="flex justify-center py-[20px]">
 

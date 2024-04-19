@@ -16,7 +16,7 @@ const TechStack = () => {
 
             <div>
                 <h1 className={`${styles.heading1} pt-[20px] pb-[50px] flex justify-center`}>
-                    The technology stack of our software development teams
+                    The technology stack of our data quality management team
                 </h1>
             </div>
 

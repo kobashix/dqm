@@ -6,71 +6,71 @@ import star1 from '../assets/icons/star1.svg'
 export const showcase = [
     {
         image: image1,
-        title: "Nearshore & Offshore Software Development Centers for companies in Western Europe & USA",
-        description: "Whenever you are looking for a full-product development partner, a group of engineers, or a trusted party who will help you establish your own IT department in Poland – we got you covered.",
+        title: "Data Science & AI services for Higher Education",
+        description: "Our management consulting services focus on our clients' most critical issues and opportunities: strategy, marketing, organization, operations, technology, transformation, digital, advanced analytics, corporate finance, mergers & acquisitions and sustainability across all industries and geographies. We bring deep, functional expertise, but are known for our holistic perspective: we capture value across boundaries and between the silos of any organization. We have proven a multiplier effect from optimizing the sum of the parts, not just the individual pieces.",
     },
     {
         image: "",
         title: "Choose a trusted partner with years of experience",
-        description: "We helped many small, medium, and large companies with their struggle in building successful remote software development teams or the whole IT hubs located in Poland.",
+        description: "We will help you to achieve your goals and to grow your business through quality data engineering and consulting services. Make your data work for you.",
     },
     {
         image: image2,
         title: "Building a software team for the unicorn in the cloud-kitchen industry",
         description: "Kitopi was looking for an option to scale its software development team for ongoing and future product development needs. ",
-    },{
+    }, {
         image: image3,
         title: "Establishing an entirely new, remote team for the UK’s first fully digital bank",
-        description: "When Atom Bank contacted NxTide in June 2021, we were extremely excited. We knew this disruptive project aligned with our mission and the client’s ambitions. And so it begins…",
+        description: "When Atom Bank contacted DQM in June 2021, we were extremely excited. We knew this disruptive project aligned with our mission and the client’s ambitions. And so it begins…",
     },
     {
         image: image4,
-        title: "Scaling a software development team for mobile payment startup",
-        description: "KodyPay challenge here was to boost the development process by adding experienced developers to their existing team and integrating them with the local team in Berkshire, England. ",
+        title: "Make your data work for you with our data engineering services",
+        description: "We convert data into insights, and insights into business decisions. Our data engineering services will help you to achieve your goals and to grow your business.",
     },
 ]
 
 export const navLink = [
     {
-        id: "Software Services",
+        id: "Industries",
         url: "",
     },
     {
-        id: "Case Studies",
+        id: "Consulting Services",
         url: "",
     },
     {
-        id: "Pricing",
+        id: "Insights",
         url: "",
     },
     {
-        id: "About Us",
+        id: "About",
         url: "",
     },
     {
-        id: "Blog",
+        id: "Careers",
         url: "",
     },
 ]
 
 export const team = [
     {
-        teamTitle: "Software team Extension",
+        teamTitle: "Agile",
         developers: "1-5",
         time: "0-2 months",
-        description: "A partially managed team that works within your processes. Best for providing additional capacity or competencies to the existing teams.",
+        description: "Become faster, more flexible, and intensely customer-focused with our Agile team. Ideal for small projects or MVPs.",
     },
     {
-        teamTitle: "Dedicated software Team",
-        developers: "5-20",
+        teamTitle: "Strategic",
+        developers: "1-10",
         time: "1-4 months",
-        description: "Fully managed, cross-functional team that works within our processes on goals set by you. Does not require IT personnel on your side.",
+        description: "Join the elite ranks of sustained value creators with our Strategic team. Perfect for medium-sized projects or product development.",
     },
     {
-        teamTitle: "IT Development Hub",
-        developers: "20+",
-        time: "3-6 months",
-        description: "Development center is the best solution for scale-ups and corporations looking for long-term engagement and cost optimization.",
+        teamTitle: "Continuous",
+        developers: "1-10",
+        time: "12-24 months",
+        description: "Quality data management takes time. Our Continuous team is perfect for large projects or ongoing product development.",
     },
 ]
 
@@ -101,17 +101,17 @@ export const reviewLogo = [
 export const card = [
     {
         icon: graduate,
-        title: "Technical Education & Skills",
-        description: "Poland is a worldwide leader in the quality of IT graduates and software engineering scores.",
+        title: "Institutional Reporting",
+        description: "We are members of the Association for Institutional Research and the National Association of College and University Business Officers. We understand the unique challenges of higher education data management and reporting.",
     },
     {
         icon: community,
-        title: "Over 800k IT Professionals",
-        description: "Software Developers, IT Project Managers, UX/UI Designers, IT Infrastructure Engineers",
+        title: "Oracle, PeopleSoft, and Banner Experts",
+        description: "We work with experts around the world to provide the best possible service to our clients. Our team includes Oracle, PeopleSoft, and Banner experts who can help you with any data management or reporting needs.",
     },
     {
         icon: star1,
-        title: "US/ EU Work Standards",
+        title: "US Work Standards",
         description: "English language proficiency and familiarity with top methodologies (Prince, Scrum, ITIL)",
     },
 ]
@@ -180,7 +180,7 @@ export const footerLinks = [
                 link: "",
             },
             {
-                id: "Priceing",
+                id: "Pricing",
                 link: "",
             },
             {
@@ -205,45 +205,45 @@ export const footerLinks = [
         title: "Engagement models",
         links: [
             {
-                id: "Dedicated Software Team",
+                id: "Dedicated Consultant",
                 link: "",
             },
             {
-                id: "Software Team Extension",
+                id: "Data Analysis & Reporting",
                 link: "",
             },
             {
-                id: "Build operate transfer",
+                id: "Data Conversion and Security",
                 link: "",
             },
             {
-                id: "Nearshore software development",
+                id: "Software Management & Support",
                 link: "",
             },
             {
-                id: "Offshore software development",
+                id: "Data Support at Your Location",
                 link: "",
             },
             {
                 id: "Custom Software Development",
                 link: "",
             },
-            
+
         ]
     },
     {
         title: "Expertise",
         links: [
             {
-                id: "Mobile applications",
+                id: "Enrollment Data Management",
                 link: "",
             },
             {
-                id: "Web applications",
+                id: "Financial Data Management",
                 link: "",
             },
             {
-                id: "Cloud applications",
+                id: "Historical Data Management",
                 link: "",
             },
         ]
@@ -281,18 +281,18 @@ export const footerLinks = [
         title: "Knowledge Hub",
         links: [
             {
-                id: "Offshore Development Center- Guide to Offshore Software Development",
+                id: "Institutional Research",
                 link: "",
             },
             {
-                id: "Nearshore Software Development Guide",
+                id: "IPEDS Reporting",
                 link: "",
             },
             {
-                id: "Build Operate Transfer – the New Trend in IT Outsourcing Services",
+                id: "GASB Reporting",
                 link: "",
             },
-            
+
         ]
     },
 ]
